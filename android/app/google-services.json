@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29392231336",
+    "project_id": "vistalk-f9593",
+    "storage_bucket": "vistalk-f9593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29392231336:android:a5428c47c0a38b53781b9d",
+        "android_client_info": {
+          "package_name": "com.example.vistalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFbPWZvNZ1lsatwhkF1IImAvkjKcfQIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
